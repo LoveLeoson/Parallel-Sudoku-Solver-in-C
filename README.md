@@ -1,2 +1,2 @@
-# Parallel-Sudoku-Solver-in-C
-A Parallel Sudoku solver written in C
+# A Parallel Sudoku solver in C
+A parallel sudoku solver written in C for varying board sizes.
